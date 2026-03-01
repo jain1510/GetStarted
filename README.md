@@ -1,2 +1,2 @@
 # GetStarted
-Getting Started With Github Desktop
+Getting Started With Github Desk
